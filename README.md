@@ -1,2 +1,2 @@
 # data-ventures
-spring 2017 trainee
+Data Ventures workshop materials for the spring 2017 Trainee program.
